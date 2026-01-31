@@ -1,0 +1,9 @@
+[submodule "for-each"]
+	path = for-each
+	url = https://github.com/djsoftware1/foreach.git
+[submodule "keep-going"]
+	path = keep-going
+	url = https://github.com/djsoftware1/keep-going.git
+[submodule "clipx"]
+	path = clipx
+	url = https://github.com/djsoftware1/clip.git
