@@ -83,7 +83,7 @@ Each tool will be available via:
 
 ## Author
 
-**David Joffe**  
+**[David Joffe](http://djsoftware.tech/)**  
 DJ Software and Technology
 
 ---
