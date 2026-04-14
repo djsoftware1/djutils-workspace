@@ -32,7 +32,7 @@ Retry and continue through failures — ideal for batch jobs, unreliable environ
 ---
 
 ### 📋 clipx
-Clipboard utility for scripting and automation.
+Cross-platform clipboard utility for scripting and automation. `clipx` to copy, `clipx -p` to paste.
 
 ---
 
