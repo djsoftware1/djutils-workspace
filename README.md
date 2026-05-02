@@ -19,19 +19,19 @@ Each tool does one thing well — and works beautifully with others.
 
 ## Tools
 
-### ▶️ for-each
+### ▶️ [for-each](https://github.com/djsoftware1/for-each)
 Run a command for every input item.
 
     echo a b c | for-each "echo {}"
 
 ---
 
-### 🔁 keep-going
+### 🔁 [keep-going](https://github.com/djsoftware1/keep-going)
 Retry and continue through failures — ideal for batch jobs, unreliable environments, or light motivation.
 
 ---
 
-### 📋 clipx
+### 📋 [clipx](https://github.com/djsoftware1/clipx)
 Cross-platform clipboard utility for scripting and automation. `clipx` to copy, `clipx -p` to paste.
 
 ---
