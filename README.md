@@ -74,11 +74,11 @@ Inspired by the Unix philosophy — but modern, cross-platform, and practical.
 
 Each tool will be available via:
 
+- [SourceForge project page](https://sourceforge.net/projects/djsoftware-utils/) also with releases
 - WinGet
 - Homebrew
 - Debian packages
 - direct download (portable binaries)
-- [SourceForge project page](https://sourceforge.net/projects/djsoftware-utils/) also with releases
 
 ---
 
