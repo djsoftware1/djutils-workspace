@@ -78,6 +78,7 @@ Each tool will be available via:
 - Homebrew
 - Debian packages
 - direct download (portable binaries)
+- [SourceForge project page](https://sourceforge.net/projects/djsoftware-utils/) also with releases
 
 ---
 
